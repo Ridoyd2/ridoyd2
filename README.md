@@ -19,8 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridoyd2&show_icons=true&locale=en" alt="ridoyd2" /></p>
 
 ![Snake animation](https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+
