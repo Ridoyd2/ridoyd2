@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridoyd2&show_icons=true&locale=en" alt="ridoyd2" /></p>
 
-![Animated Universe](https://media1.giphy.com/media/M0WjHhGx87PoY/giphy.gif)
+
 
 ![Snake animation](https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake.svg)
 
