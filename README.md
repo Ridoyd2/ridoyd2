@@ -1,4 +1,4 @@
-![Animated Universe](./assets/universe.gif)
+
 
 <h1 align="center">Hi 👋, I'm ridoy</h1>
 <h3 align="center">A passionate Web-developer from BANGLADESH</h3>
@@ -18,5 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridoyd2&show_icons=true&locale=en" alt="ridoyd2" /></p>
 
+![Animated Universe](./assets/universe.gif)
 ![Snake animation](https://github.com/ridoyd2/ridoyd2/blob/output/github-contribution-grid-snake.svg)
 
